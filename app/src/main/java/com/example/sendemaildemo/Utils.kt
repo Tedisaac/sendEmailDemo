@@ -2,7 +2,7 @@ package com.example.sendemaildemo
 
 class Utils {
 
-    val EMAIL = "ndeited@gmail.com"
+    val EMAIL = "sianrealtors.dev@gmail.com"
 
-    val PASSWORD = "vcnpxhvtxfoytsww"
+    val PASSWORD = "ydvdbqkxivoccslz"
 }
